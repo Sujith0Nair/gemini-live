@@ -13,7 +13,7 @@ _Watch the AI in action with a Tony Stark persona!_
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gemini-live.git
+git clone https://github.com/Sujith0Nair/gemini-live.git
 cd gemini-live
 ```
 
