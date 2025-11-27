@@ -2,6 +2,12 @@
 
 Hey there! 👋 Welcome to Gemini Live, a fun Flutter app where you can have real-time, voice-to-voice chats with a Large Language Model (LLM). This whole thing started because I really wanted to get my hands dirty with Flutter and dive headfirst into the exciting (and sometimes head-scratching) world of generative AI. Honestly, it's been a wild ride—a mix of super fun discoveries and a bit of frustration wrestling with docs that sometimes felt like riddles.
 
+## Demo
+
+https://github.com/user-attachments/assets/520b8edc-1327-49b6-841c-5a908fadc229
+
+_Watch the AI in action with a Tony Stark persona!_
+
 ## Getting Started
 
 ### 1. Clone the Repository
